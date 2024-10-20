@@ -2,7 +2,7 @@ Learning how to use OpenGL in C++ with VScode on Linux. The aim is to build a ga
 Made using the LearnOpenGL book (https://learnopengl.com/), some other ressources and lot of tinkering.
 
 # Technologies used
-- Built from source version of OpenGL
+- OpenGL (built from source), GLAD and GLFW
 - Visual Studio Code
 - C++
-- CMake for the build system
+- CMake for the build system and library linking

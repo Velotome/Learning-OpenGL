@@ -5,7 +5,6 @@ find_package(OpenGL REQUIRED)
 
 add_executable(Gam 
     src/main.cpp
-    src/glad.h
     src/glad.c
 )
 
